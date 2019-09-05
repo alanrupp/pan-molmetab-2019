@@ -9,6 +9,13 @@ Looking for genes specifically regulated by the Leptin-STAT3 signaling pathway i
   * `tx2gene.csv`: transcript_id, transcript_name, gene_id, gene_name, and gene_biotype information
 * `mapping`: folder containing shell scripts to filter and map original FASTQ data
 * `metadata`: folder containing CSV files with sample and run information
+* `Stat3KO_v_ob.R`: analysis of count files
+
+## Requirements
+* `R`
+  * `tidyverse`
+  * `DESeq2`
+  * `ggrepel`
 
 ## Outputs
 Data and figures from Pan et al. (see Citation)
