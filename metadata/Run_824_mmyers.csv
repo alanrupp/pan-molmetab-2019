@@ -1,0 +1,7 @@
+FCID,Lane,SampleId,SampleRef,Index,Description,Control,Recipe,Operator,SampleProject
+C31DTACXX,6,28514,mRNA Seq,TGACCA,ObPbsLepR1,N,R,UM DNA Sequencing Core,mmyers
+C31DTACXX,6,28515,mRNA Seq,GAGTGG,ObPbsNon1,N,R,UM DNA Sequencing Core,mmyers
+C31DTACXX,6,28516,mRNA Seq,ATCACG,ObPbsLepR2,N,R,UM DNA Sequencing Core,mmyers
+C31DTACXX,6,28517,mRNA Seq,TAGCTT,ObPbsNon2,N,R,UM DNA Sequencing Core,mmyers
+C31DTACXX,6,28518,mRNA Seq,GTGGCC,Ob10hrLepLepR1,N,R,UM DNA Sequencing Core,mmyers
+C31DTACXX,6,28519,mRNA Seq,AGTCAA,Ob10hrLepNon1,N,R,UM DNA Sequencing Core,mmyers
